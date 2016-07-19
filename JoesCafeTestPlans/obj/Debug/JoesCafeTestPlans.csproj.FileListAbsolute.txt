@@ -1,0 +1,14 @@
+D:\visual studio 2015\Projects\JoesCafeTestProject\JoesCafeTestPlans\bin\Debug\JoesCafeTestPlans.dll
+D:\visual studio 2015\Projects\JoesCafeTestProject\JoesCafeTestPlans\bin\Debug\JoesCafeTestPlans.pdb
+D:\visual studio 2015\Projects\JoesCafeTestProject\JoesCafeTestPlans\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\visual studio 2015\Projects\JoesCafeTestProject\JoesCafeTestPlans\obj\Debug\JoesCafeTestPlans.csprojResolveAssemblyReference.cache
+D:\visual studio 2015\Projects\JoesCafeTestProject\JoesCafeTestPlans\obj\Debug\JoesCafeTestPlans.dll
+D:\visual studio 2015\Projects\JoesCafeTestProject\JoesCafeTestPlans\obj\Debug\JoesCafeTestPlans.pdb
+D:\visual studio 2015\Projects\JoesCafeTestProject\JoesCafeTestPlans\bin\Debug\WebDriver.dll
+D:\visual studio 2015\Projects\JoesCafeTestProject\JoesCafeTestPlans\bin\Debug\WebDriver.xml
+D:\visual studio 2015\Projects\JoesCafeTestProject\JoesCafeTestPlans\bin\Debug\WebDriver.Support.dll
+D:\visual studio 2015\Projects\JoesCafeTestProject\JoesCafeTestPlans\bin\Debug\WebDriver.Support.xml
+D:\visual studio 2015\Projects\JoesCafeTestProject\JoesCafeTestPlans\bin\Debug\chromedriver.exe
+D:\visual studio 2015\Projects\JoesCafeTestProject\JoesCafeTestPlans\bin\Debug\chromedriver-license.txt
+D:\visual studio 2015\Projects\JoesCafeTestProject\JoesCafeTestPlans\bin\Debug\JoesCafeLibrary.dll
+D:\visual studio 2015\Projects\JoesCafeTestProject\JoesCafeTestPlans\bin\Debug\JoesCafeLibrary.pdb
